@@ -1,4 +1,4 @@
-package com.haoqi;
+package party.haoqi.$01base;
 
 /**
  * Created by Administrator on 2020/1/30. All right reserved.
