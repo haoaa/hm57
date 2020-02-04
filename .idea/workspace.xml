@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebaf5fa4-82d2-4590-980e-7a593cd50346" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/party/haoqi/$01base/day13_collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/party/haoqi/$01base/day14_listmap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/party/haoqi/$01base/day12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/party/haoqi/$01base/day12.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="0.basic" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1QUsPxYJLgYNjdRHNHZfLzGKani" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/party/haoqi/$01base" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="J:\java57\demo\day06\src\party\haoqi\$01base" />
+      <recent name="J:\java57\demo\day06" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.day14_listmap">
+    <configuration name="day04 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="party.haoqi.$01base.day04" />
+      <module name="0.basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="party.haoqi.$01base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day10 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="party.haoqi.$01base.day10" />
+      <module name="0.basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="party.haoqi.$01base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="party.haoqi.$01base.day12" />
+      <module name="0.basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="party.haoqi.$01base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day13_collection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="party.haoqi.$01base.day13_collection" />
+      <module name="0.basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="party.haoqi.$01base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day14_listmap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="party.haoqi.$01base.day14_listmap" />
+      <module name="0.basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="party.haoqi.$01base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.day14_listmap" />
+        <item itemvalue="Application.day13_collection" />
+        <item itemvalue="Application.day12" />
+        <item itemvalue="Application.day04 (1)" />
+        <item itemvalue="Application.day10 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebaf5fa4-82d2-4590-980e-7a593cd50346" name="Default Changelist" comment="" />
+      <created>1567836489075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567836489075</updated>
+      <workItem from="1567836492984" duration="81000" />
+      <workItem from="1567836718761" duration="3500000" />
+      <workItem from="1567842433273" duration="7487000" />
+      <workItem from="1580387937962" duration="6071000" />
+      <workItem from="1580528515926" duration="5878000" />
+      <workItem from="1580605677231" duration="9365000" />
+      <workItem from="1580699912501" duration="4274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/party/haoqi/$01base/day14_listmap.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
